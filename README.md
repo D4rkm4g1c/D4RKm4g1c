@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
-I am a **Cybersecurity Consultant** with expertise in safeguarding digital environments and uncovering vulnerabilities. Here, you’ll find a collection of my public projects, resources, and contributions to the cybersecurity community.
+"I am a **Cybersecurity Consultant** specialising in identifying vulnerabilities and enhancing the security of digital systems. This profile showcases my tools, projects, and contributions to the cybersecurity field."
+
 
 ---
 
