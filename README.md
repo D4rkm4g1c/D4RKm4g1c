@@ -37,7 +37,7 @@ I am a **Cybersecurity Consultant** specialising in identifying vulnerabilities 
 
 ## 📖 Blog & Resources
 I occasionally share insights and resources on **cybersecurity** topics. Check out my blog for detailed articles on penetration testing, cloud security, and more:  
-**[Placeholder Blog Link](#)** (TODO)
+**[Placeholder Blog Link](https://d4rkm4g1c.github.io/)** 
 
 ---
 
