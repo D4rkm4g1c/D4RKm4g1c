@@ -14,7 +14,7 @@ I am a **Cybersecurity Consultant** specialising in identifying vulnerabilities 
 ## 🛠️ Tools & Technologies
 - **Languages:** Python, Bash
 - **Tools:** Burp Suite, Metasploit, Nmap, Wireshark
-- **Cloud:** Azure Security, AWS Security
+- **Cloud:** Azure Security
 
 ---
 
