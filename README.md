@@ -1,16 +1,41 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**D4rkm4g1c/D4RKm4g1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Cybersecurity Consultant** with expertise in safeguarding digital environments and uncovering vulnerabilities. Here, you’ll find a collection of my public projects, resources, and contributions to the cybersecurity community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Areas of Expertise
+- Penetration Testing & Vulnerability Assessment
+- Web Application Security
+- Cloud Security (Azure)
+---
+
+## 🛠️ Tools & Technologies
+- **Languages:** Python, Bash, JavaScript
+- **Tools:** Burp Suite, Metasploit, Nmap, Wireshark
+- **Cloud:** Azure Security, AWS Security
+
+---
+
+## 🌱 Currently Learning
+- Mobile Testing
+- Indepth Infrastucture
+
+---
+
+## 📂 Featured Repositories
+- [🔗 Repository 1 Title](#) – Description of this project. 
+
+
+---
+
+## 📖 Blog & Resources
+I occasionally share insights and resources on **cybersecurity** topics. Check out my blog for detailed articles on penetration testing, cloud security, and more:  
+**[Placeholder Blog Link](#)** (TODO)
+
+---
+
+
+---
+
+
