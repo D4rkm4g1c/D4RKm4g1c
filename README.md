@@ -11,7 +11,7 @@ I am a **Cybersecurity Consultant** with expertise in safeguarding digital envir
 ---
 
 ## 🛠️ Tools & Technologies
-- **Languages:** Python, Bash, JavaScript
+- **Languages:** Python, Bash
 - **Tools:** Burp Suite, Metasploit, Nmap, Wireshark
 - **Cloud:** Azure Security, AWS Security
 
@@ -24,7 +24,12 @@ I am a **Cybersecurity Consultant** with expertise in safeguarding digital envir
 ---
 
 ## 📂 Featured Repositories
-- [🔗 Repository 1 Title](#) – Description of this project. 
+- [🔗 Repository 1 Title](#) A powerful security assessment tool for Azure environments, designed to identify misconfigurations and vulnerabilities. Key features include:  
+- Automated security scans across Azure services  
+- Interactive HTML reports with filtering and search  
+- YAML-based configurations for easy maintenance  
+
+
 
 
 ---
