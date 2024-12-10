@@ -24,10 +24,12 @@ I am a **Cybersecurity Consultant** with expertise in safeguarding digital envir
 ---
 
 ## 📂 Featured Repositories
-- [🔗 Repository 1 Title](#) A powerful security assessment tool for Azure environments, designed to identify misconfigurations and vulnerabilities. Key features include:  
-- Automated security scans across Azure services  
-- Interactive HTML reports with filtering and search  
-- YAML-based configurations for easy maintenance  
+- [🔗 AzureSecuritySuite](https://github.com/D4rkm4g1c/AzureSecuritySuite)  
+  A powerful security assessment tool for Azure environments, designed to identify misconfigurations and vulnerabilities. Key features include:  
+  - Automated security scans across Azure services  
+  - Interactive HTML reports with filtering and search  
+  - YAML-based configurations for easy maintenance
+
 
 
 
