@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-"I am a **Cybersecurity Consultant** specialising in identifying vulnerabilities and enhancing the security of digital systems. This profile showcases my tools, projects, and contributions to the cybersecurity field."
+I am a **Cybersecurity Consultant** specialising in identifying vulnerabilities and enhancing the security of digital systems. This profile showcases my tools, projects, and contributions to the cybersecurity field.
 
 
 ---
@@ -30,8 +30,6 @@
   - Automated security scans across Azure services  
   - Interactive HTML reports with filtering and search  
   - YAML-based configurations for easy maintenance
-
-
 
 
 
